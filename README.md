@@ -30,9 +30,9 @@ git clone https://github.com/wellingtonmiranda/ToDo_NodeJs_ReactJs_ReactNative
 
 * Adobe Xd
 
-Para criação do protótipo web e mobile.
+  Para criação do protótipo web e mobile.
 
 * VsCode
 
-Para o desenvolvimento do back, front e mobile.
+  Para o desenvolvimento do back, front e mobile.
 
