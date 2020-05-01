@@ -28,11 +28,11 @@ git clone https://github.com/wellingtonmiranda/ToDo_NodeJs_ReactJs_ReactNative
 
 # Ferramentas utilizadas
 
-*Adobe Xd
+* Adobe Xd
 
 Para criação do protótipo web e mobile.
 
-*VsCode
+* VsCode
 
 Para o desenvolvimento do back, front e mobile.
 
