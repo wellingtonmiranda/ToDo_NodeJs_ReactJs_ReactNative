@@ -6,7 +6,7 @@ const taskValidation = async (req, res, next) => {
 const {macaddress, type, title, description, when } = req.body; /* destructuring do q vem no json do model Tem q ser exatamente os mesmos nomes.*/
 
 if(!macaddress) /* o ! quer dizer se ele não existir, retorne..*/
-return res.status(400).json({ error: "macadress é obrigatório"});
+return res.status(400).json({ error: "Macadress é obrigatório"});
 else if(!type)
 return res.status(400).json({ error: "Tipo obrigatório"})
 else if(!title)
